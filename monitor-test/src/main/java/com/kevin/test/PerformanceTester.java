@@ -5,7 +5,7 @@ package com.kevin.test;
  * performance test monitor
  * </p>
  *
- * @author czheng
+ * @author kevin
  * @since 2016-03-03 10:30
  */
 public class PerformanceTester {

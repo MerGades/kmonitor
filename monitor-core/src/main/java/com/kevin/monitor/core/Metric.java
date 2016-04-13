@@ -6,7 +6,7 @@ package com.kevin.monitor.core;
  * so far, just record the key, exec duration, call at
  * </p>
  *
- * @author czheng
+ * @author kevin
  * @since 2016-02-22 10:49
  */
 public class Metric {

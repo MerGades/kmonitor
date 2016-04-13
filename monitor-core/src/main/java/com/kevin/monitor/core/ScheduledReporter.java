@@ -15,7 +15,7 @@ import java.util.concurrent.atomic.AtomicInteger;
  *    used to send the metrics to metrics collector on schedule time
  * </p>
  *
- * @author czheng
+ * @author kevin
  * @since 2016-02-22 16:29
  */
 public abstract class ScheduledReporter implements Closeable {

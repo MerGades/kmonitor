@@ -6,7 +6,7 @@ package com.kevin.monitor.core;
  * key,value,callAt\n
  * </p>
  *
- * @author czheng
+ * @author kevin
  * @since 2016-02-22 12:11
  */
 public class PlainTxtFormatter implements Formatter{

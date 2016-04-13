@@ -5,7 +5,7 @@ package com.kevin.monitor.core;
  *   used to build the reservoir.
  * </p>
  *
- * @author czheng
+ * @author kevin
  * @since 2016-02-29 15:23
  */
 public class ReservoirFactory {

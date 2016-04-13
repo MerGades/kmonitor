@@ -11,7 +11,7 @@ import java.util.concurrent.LinkedBlockingQueue;
  *  save the metric item in blocking queue.
  * </p>
  *
- * @author czheng
+ * @author kevin
  * @since 2016-02-22 11:08
  */
 public class BlockQueueReservoir implements Reservoir {

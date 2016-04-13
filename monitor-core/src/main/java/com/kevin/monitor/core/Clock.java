@@ -5,7 +5,7 @@ package com.kevin.monitor.core;
  *    clock for basic time
  * </p>
  *
- * @author czheng
+ * @author kevin
  * @since 2016-02-22 10:33
  */
 public abstract class Clock {

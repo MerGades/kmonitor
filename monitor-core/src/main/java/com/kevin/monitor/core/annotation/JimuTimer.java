@@ -7,7 +7,7 @@ import java.lang.annotation.*;
  *    mark the method need to record exec time.
  * </p>
  *
- * @author czheng
+ * @author kevin
  * @since 2016-02-26 11:14
  */
 @Target({ElementType.METHOD, ElementType.TYPE})

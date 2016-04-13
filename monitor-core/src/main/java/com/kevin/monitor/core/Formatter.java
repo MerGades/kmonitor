@@ -5,7 +5,7 @@ package com.kevin.monitor.core;
  *  format the metric item for the collector on remote.
  * </p>
  *
- * @author czheng
+ * @author kevin
  * @since 2016-02-22 10:44
  */
 public interface Formatter {

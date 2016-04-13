@@ -7,7 +7,7 @@ import com.kevin.monitor.core.annotation.JimuTimer;
  * pls input by self
  * </p>
  *
- * @author czheng
+ * @author kevin
  * @since 2016-03-03 10:31
  */
 public class RunningMan {

@@ -10,7 +10,7 @@ import java.util.Collection;
  *    used to send the metrics to metrics collector on schedule time
  * </p>
  *
- * @author czheng
+ * @author kevin
  * @since 2016-02-22 16:29
  */
 public class Slf4jScheduledReporter extends ScheduledReporter {

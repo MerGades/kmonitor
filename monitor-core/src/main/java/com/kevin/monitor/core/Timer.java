@@ -5,7 +5,7 @@ package com.kevin.monitor.core;
  *    used to record the time
  * </p>
  *
- * @author czheng
+ * @author kevin
  * @since 2016-02-22 11:55
  */
 public class Timer{

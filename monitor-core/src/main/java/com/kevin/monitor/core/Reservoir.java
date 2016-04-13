@@ -7,7 +7,7 @@ import java.util.Collection;
  *  temporarily save the metric
  * </p>
  *
- * @author czheng
+ * @author kevin
  * @since 2016-02-22 10:41
  */
 public interface Reservoir {
